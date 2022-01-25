@@ -26,22 +26,22 @@
 
 body
 {
-	background: url('images/fond_jaune.png');
-	font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: #181818;
+  	 background: url('images/fond_jaune.png');
+   	 font-family: 'Trebuchet MS', Arial, sans-serif;
+	 color: #181818;
 }
 
 #bloc_page
 {
-	 width: 900px;
-    margin: auto;
+  	 width: 900px;
+   	 margin: auto;
 }
 
 section h1, footer h1, nav a
 {
-    font-family: Dayrom, serif;
-    font-weight: normal;
-    text-transform: uppercase;
+  	  font-family: Dayrom, serif;
+  	  font-weight: normal;
+  	  text-transform: uppercase;
 }
 
 header{
@@ -61,15 +61,15 @@ header{
 
 #logo_principal
 {
-    display: flex;
-    flex-direction: row;
-    align-items: baseline;
+   	 display: flex;
+   	 flex-direction: row;
+    	 align-items: baseline;
 }
 
 #logo_principal img
 {
 	width: 59px;
-    height: 60px;
+    	height: 60px;
 }
 
 header h1
@@ -120,8 +120,8 @@ nav li
 	border-radius: 10px;
 	margin-top : 15px;
 	position: relative;
-    box-shadow: 0px 4px 4px #1c1a19;
-    margin-bottom: 25px;
+    	box-shadow: 0px 4px 4px #1c1a19;
+   	 margin-bottom: 25px;
 }
 
 .banniere_description
@@ -134,7 +134,7 @@ nav li
     height: 33px;
     padding-top: 15px;
     padding-left: 4px;
-     color: white;
+    color: white;
     font-size: 0.8em;
 }
 
@@ -143,14 +143,14 @@ nav li
 	position: absolute;
 	height: 25px ;
 	right: 5px;
-    bottom: 5px;
-    background: url('images/fond_degraderouge.png') repeat-x ;
-    border-radius: 5px ;
-    font-size: 1.2em;
-    text-align: center;
-    padding: 3px 8px 0px 8px;
-    color: white;
-    text-decoration: none;
+    	bottom: 5px;
+    	background: url('images/fond_degraderouge.png') repeat-x ;
+    	border-radius: 5px ;
+    	font-size: 1.2em;
+    	text-align: center;
+    	padding: 3px 8px 0px 8px;
+    	color: white;
+    	text-decoration: none;
 
 }
 
@@ -188,14 +188,14 @@ aside
 	flex : 1.2 ;
 	position: relative;
 	background-color: #706b64;
-    box-shadow: 0px 2px 5px #1c1a19;
-    border-radius: 5px;
-    padding: 10px;
-    color: white;
-    font-size: 0.9em;
-    height: 400px ;
-    margin-top: 100px ;
-    margin-left: 20px;
+    	box-shadow: 0px 2px 5px #1c1a19;
+    	border-radius: 5px;
+    	padding: 10px;
+    	color: white;
+    	font-size: 0.9em;
+    	height: 400px ;
+    	margin-top: 100px ;
+    	margin-left: 20px;
 }
 
 .photo_zozor
@@ -257,8 +257,8 @@ footer h1
 
 .friends a
 {
-    text-decoration: none;
-    color: #760001;
+    	text-decoration: none;
+    	color: #760001;
 }
 
 .friends h1
